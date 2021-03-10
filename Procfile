@@ -1,0 +1,1 @@
+web: sh cmake.sh && sh setup.sh && streamlit run app.py
