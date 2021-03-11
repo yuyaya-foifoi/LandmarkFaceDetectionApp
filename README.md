@@ -1,4 +1,9 @@
-# Face-Detection
+# FaceDetection with Dlib
+
+場所(公園, 室内)にどれだけの人がいるのか、簡単に知るために作成した。
+人が多い場合は別の場所に移動する。
+(適切なフィジカルディスタンスを保ちたい)
+
 ```bash
 streamlit run app.py
 ```
